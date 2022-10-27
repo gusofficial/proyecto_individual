@@ -13,5 +13,5 @@ Para el ETL se utilizó python y se realizó la conexión a mysql con mysqlalche
 El ETL comprende la carga de archivo, la normalización y la carga a la tabla de precios de la base de datos. Un diagrama se encuentra a continuación:
 
 <p align="center">
-  <img src="figuras/Diagrama.png">
+  <img src="Diagrama.png">
 </p>
